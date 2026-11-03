@@ -59,3 +59,16 @@ CATKIN_IGNORE
 
 # log files
 /mbot_tools/data/*.csv
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+tmp/
+temp/
